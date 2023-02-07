@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{813E66CC-36DD-4EB0-B15D-1897652CE954}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLBanHangLapTop</RootNamespace>
+    <AssemblyName>QLBanHangLapTop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillInfo.Designer.cs">
+      <DependentUpon>BillInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAccount.Designer.cs">
+      <DependentUpon>fAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fChiNhanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fChiNhanh.Designer.cs">
+      <DependentUpon>fChiNhanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCustomer.Designer.cs">
+      <DependentUpon>fCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fManager.Designer.cs">
+      <DependentUpon>fManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhapKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhapKho.Designer.cs">
+      <DependentUpon>fNhapKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fProduct.Designer.cs">
+      <DependentUpon>fProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fQLNhapKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fQLNhapKho.Designer.cs">
+      <DependentUpon>fQLNhapKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fStaff.Designer.cs">
+      <DependentUpon>fStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillInfo.resx">
+      <DependentUpon>BillInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAccount.resx">
+      <DependentUpon>fAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fChiNhanh.resx">
+      <DependentUpon>fChiNhanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCustomer.resx">
+      <DependentUpon>fCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fManager.resx">
+      <DependentUpon>fManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhapKho.resx">
+      <DependentUpon>fNhapKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fProduct.resx">
+      <DependentUpon>fProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fQLNhapKho.resx">
+      <DependentUpon>fQLNhapKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fStaff.resx">
+      <DependentUpon>fStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people.2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus-icon-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laptop_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptops-icon-clipart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\99825.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\macbook.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lap1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lap2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lap4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lap3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

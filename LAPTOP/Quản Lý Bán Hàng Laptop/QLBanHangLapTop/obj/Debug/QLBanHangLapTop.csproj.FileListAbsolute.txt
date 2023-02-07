@@ -1,0 +1,114 @@
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.pdb
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fManager.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fLogin.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fCustomer.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fProduct.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fStaff.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fAccount.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBaoCaoDThu.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBaoCaoNKho.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Code\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBill.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.pdb
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fAccount.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBaoCaoDThu.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBaoCaoNKho.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fCustomer.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fManager.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fProduct.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fStaff.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fLogin.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.GenerateResource.Cache
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csprojAssemblyReference.cache
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Bill.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.BillInfo.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fAccount.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBaoCaoDThu.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fBaoCaoNKho.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fCustomer.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fManager.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fProduct.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fStaff.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fLogin.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Properties.Resources.resources
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.GenerateResource.cache
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.CoreCompileInputs.cache
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe
+C:\Users\minhz\Desktop\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.pdb
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.pdb
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csprojAssemblyReference.cache
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Bill.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.BillInfo.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fAccount.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fCustomer.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fManager.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fProduct.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fStaff.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fLogin.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Properties.Resources.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.GenerateResource.cache
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.CoreCompileInputs.cache
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fChiNhanh.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fNhapKho.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\PHIN Project\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fQLNhapKho.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.pdb
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csprojAssemblyReference.cache
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Bill.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.BillInfo.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fAccount.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fChiNhanh.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fCustomer.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fManager.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fNhapKho.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fProduct.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fQLNhapKho.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fStaff.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fLogin.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Properties.Resources.resources
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.GenerateResource.cache
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.CoreCompileInputs.cache
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+C:\Users\minhz\OneDrive - The Danang University of Economics\Quản trị CSDL - Project\Phần mềm quản lý cửa hàng LAPTOP\Main\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+E:\QTCSDL_Nhom\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+E:\QTCSDL_Nhom\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+E:\QTCSDL_Nhom\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe.config
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.exe
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.pdb
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.exe
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\bin\Debug\QLBanHangLapTop.pdb
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csprojResolveAssemblyReference.cache
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Bill.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.BillInfo.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fAccount.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fChiNhanh.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fCustomer.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fManager.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fNhapKho.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fProduct.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fQLNhapKho.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fStaff.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.fLogin.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.Properties.Resources.resources
+E:\GitHub\QTCSDL\LAPTOP\Quản Lý Bán Hàng Laptop\QLBanHangLapTop\obj\Debug\QLBanHangLapTop.csproj.GenerateResource.Cache
